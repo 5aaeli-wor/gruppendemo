@@ -1,0 +1,4 @@
+function infoSMN() {
+  meinung = document.getElementById("m_smn")
+  meinung.innerHTML = "1er ins Zeugnis in FSST und ESY";
+}
